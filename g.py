@@ -2,7 +2,7 @@
 import openai
 
 # Replace with your own OpenAI API key
-openai.api_key = "sk-XXXXXXXXXXXXXXXXXXXXXXX"
+openai.ak = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx"
 
 def ask_ai(prompt):
     response = openai.ChatCompletion.create(
