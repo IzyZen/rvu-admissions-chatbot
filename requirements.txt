@@ -1,3 +1,2 @@
-An Internet connection
-A laptop
-And YOU!
+pytest
+openai
