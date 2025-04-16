@@ -1,4 +1,3 @@
-Just python
 An Internet connection
 A laptop
 And YOU!
