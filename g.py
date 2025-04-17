@@ -62,10 +62,10 @@ def tour_menu():
         elif selection == "7":
             print("Contact Us at\nEmail: rvuadmissions@rvu.edu.in\nPhone: 88888 12128, 77872 41962")
         elif selection == "8":
-            prompt = input("Ask me anything about RVU: ")
-            print("Thinking...\n")
-            answer = ask_ai(prompt)
-            print("AI:", answer)
+            prompt = input("I am a recreated representation of Chatgpt 4.0 connected in the backend at botpress! I can give an answer to "What is the avg placement salary at RVU?" wanna hear it?[1/0]")
+            if prompt == 1:
+                print("Popular question! The earliest RVU batch hasn't yet graduated so there isn't an exact value I can give you, please do not fall for falsified information online. However, the companies that come to hire from RVCE, also come to RVU!.")
+
 
         elif selection == "9":
             print("Thanks for chatting! Have a great day :)")
